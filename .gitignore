@@ -1,0 +1,15 @@
+# секреты и данные Консильери — никогда в репозиторий
+.env
+*.session
+*.session-journal
+data/
+logs/
+cache/
+shots/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# MT5
+*.ex5
