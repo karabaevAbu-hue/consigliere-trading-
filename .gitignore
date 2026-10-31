@@ -1,13 +1,15 @@
-# секреты и данные Консильери — никогда в репозиторий
+# Секреты и данные ассистента — никогда в репозиторий
 .env
 *.session
 *.session-journal
 data/
 logs/
 cache/
+models/
 shots/
 # Python
 .venv/
+venv/
 __pycache__/
 *.pyc
 .pytest_cache/
